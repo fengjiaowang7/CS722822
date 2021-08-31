@@ -6,7 +6,7 @@ The course sysllabus is [here](https://github.com/fengjiaowang7/CS722822/blob/ma
 Tentative course schedule:
 | Week                   | Topics                                                       | Note                             |
 | ---------------------- | ------------------------------------------------------------ | -------------------------------- |
-| Week 1 (8/30-9/3)      | Course overview<br>Review of basic mathematics (matrix computation, norms, probability, mean, variance, optimization, etc.) |                                  |
+| Week 1 (8/30-9/3)      | Course overview<br>Review of basic mathematics (matrix computation, norms, probability, mean, variance, optimization, etc.) |                                  |
 | Week 2 (9/6-9/10)      | Supervised Learning - classification: KNN, linear discriminant analysis, logistic regression, support vector machine, model evaluation, overfitting, regularization |                                  |
 | Week 3 (9/13-9/17)     | continue classification                                      |                                  |
 | Week 4 (9/20-9/24)     | continue classification<br>In-class quiz (45 minutes)        |                                  |
