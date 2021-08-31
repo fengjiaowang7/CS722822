@@ -4,7 +4,7 @@ This repository serves as course website for CS722/822 Machine Learning.
 The course sysllabus is [here](https://github.com/fengjiaowang7/CS722822/blob/main/CS722_822_syllabus_new.pdf)
 
 Tentative course schedule:
-| Week                   | Topics                                                       | | Note                             |
+| Week                   | Topics                                                       | Activities | Note                             |
 | ---------------------- | ------------------------------------------------------------ | -------------------------------- | -------------------------------- |
 | Week 1 (8/30-9/3)      | Course overview<br>Review of basic mathematics (matrix computation, norms, probability, mean, variance, optimization, etc.) |                                  | |
 | Week 2 (9/6-9/10)      | Supervised Learning - classification: KNN, linear discriminant analysis, logistic regression, support vector machine, model evaluation, overfitting, regularization |                                  | |
