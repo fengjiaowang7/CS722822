@@ -16,7 +16,7 @@ Tentative course schedule:
 | Week 4 (9/20-9/24)     | 9/23 | Deep Learning Introduction (30 minutes) <br>In-class quiz (45 minutes)        | In-class quiz on 9/23 <br> Homework 2 due on 9/26                                 | |
 | Week 5 (9/27-10/1)     | 9/28 | Unsupervised Learning - clustering: K-means, hierarchical clustering, DBSCAN, spectral clustering, Gaussian mixture model, evaluation |  Homework 3 (programming assignment) publish on 9/27, due on 10/6 (by end of the day)                               | |
 | Week 5 (9/27-10/1)     | 9/30 | continue clustering |                                  | |
-| Week 6 (10/4 - 10/8)   | 10/5 | unsupervised learning, semi-supervised learning survey - part1                                         |                                  | |
+| Week 6 (10/4 - 10/8)   | 10/5 | unsupervised learning, semi-supervised learning survey - part1                                         |    Homework                               | |
 | Week 6 (10/4 - 10/8)   | 10/7 | unsupervised learning, semi-supervised learning survey - part2                                         |                                  | |
 | Week 7 (10/11-10/15)   | 10/12 |    |  |No class on 10/12 (Fall Holiday)  |
 | Week 7 (10/11-10/15)   | 10/14 | demo paper presentation by Dr. Wang (30 minutes) <br>In-class quiz (45 minutes)            | In-class quiz on 10/14 | |
