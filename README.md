@@ -12,7 +12,7 @@ Tentative course schedule:
 | Week 4 (9/20-9/24)     | continue classification<br>In-class quiz (45 minutes)        |                                  | |
 | Week 5 (9/27-10/1)     | Unsupervised Learning - clustering: K-means, hierarchical clustering, DBSCAN, spectral clustering, Gaussian mixture model, evaluation |                                  | |
 | Week 6 (10/4 - 10/8)   | continue clustering                                          |                                  | |
-| Week 7 (10/11-10/15)   | sample paper presentation by Dr. Fengjiao Wang<br>In-class quiz (45 minutes)            | In-class quiz on 10/14 |No class on 10/12 (Fall Holiday)  |
+| Week 7 (10/11-10/15)   | demo paper presentation by Dr. Fengjiao Wang<br>In-class quiz (45 minutes)            | In-class quiz on 10/14 |No class on 10/12 (Fall Holiday)  |
 | Week 8 (10/18-10/22)   | start of unit-II<br>paper reviews and presentation           |                                  | |
 | Week 9 (10/25 - 10/29) | Continue unit-II                                             |                                  | |
 | Week 10 (11/1-11/5)    | Continue unit-II                                             |   | No class on 11/2 (Election Day) |
