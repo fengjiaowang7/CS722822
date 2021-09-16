@@ -6,9 +6,9 @@ The course sysllabus is [here](https://github.com/fengjiaowang7/CS722822/blob/ma
 Tentative course schedule:
 | Week                   | Date |Topics                                                       | Activities | Note                             |
 | ---------------------- |  ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------- | -------------------------------- |
-| Week 1 (8/30-9/3)      | 8/31 | Course overview<br>Review of basic mathematics (matrix computation, norms, probability, mean, variance, optimization, etc.) |                                  | |
-| Week 1 (8/30-9/3)      | 9/2 | Course overview<br>Review of basic mathematics (matrix computation, norms, probability, mean, variance, optimization, etc.) |                                  | |
-| Week 2 (9/6-9/10)      | 9/7 | Supervised Learning - regression (linear/polynomial/non-linear regression), least square, underfitting, overfitting, regularization |  Homework 1 is published in Blackboard on 9/9, due date is 9/16 (by end of the day)                                | |
+| Week 1 (8/30-9/3)      | 8/31 | Course overview |                                  | |
+| Week 1 (8/30-9/3)      | 9/2 | Review of basic mathematics (matrix computation, norms, probability, mean, variance, optimization, etc.) |                                  | |
+| Week 2 (9/6-9/10)      | 9/7 | Supervised Learning - regression (linear/polynomial/non-linear regression), least square, underfitting, overfitting, regularization |                                 | |
 | Week 2 (9/6-9/10)      | 9/9 | Supervised Learning - regression (linear/polynomial/non-linear regression), least square, underfitting, overfitting, regularization |  Homework 1 is published in Blackboard on 9/9, due date is 9/16 (by end of the day)                                | |
 | Week 3 (9/13-9/17)     | 9/14 |logistic regression, model evaluation (confusion matrix, Accuracy, precision, recall, F-measure, cost-sensitive measure, ROC curve, AUC)                                      |  Homework 1 due on 9/16 <br />  selecting paper for presentation by 9/19                                | |
 | Week 3 (9/13-9/17)     | 9/16 |logistic regression, model evaluation (confusion matrix, Accuracy, precision, recall, F-measure, cost-sensitive measure, ROC curve, AUC)                                      |  Homework 1 due on 9/16 <br />  selecting paper for presentation by 9/19                                | |
