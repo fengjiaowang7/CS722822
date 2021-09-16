@@ -15,7 +15,7 @@ Tentative course schedule:
 | Week 4 (9/20-9/24)     | 9/21 | Deep Learning Introduction        |                                | |
 | Week 4 (9/20-9/24)     | 9/23 | Deep Learning Introduction<br>In-class quiz (45 minutes)        | In-class quiz on 9/23                                 | |
 | Week 5 (9/27-10/1)     | 9/28 | Unsupervised Learning - clustering: K-means, hierarchical clustering, DBSCAN, spectral clustering, Gaussian mixture model, evaluation |                                  | |
-| Week 5 (9/27-10/1)     | 9/30 | Unsupervised Learning - clustering: K-means, hierarchical clustering, DBSCAN, spectral clustering, Gaussian mixture model, evaluation |                                  | |
+| Week 5 (9/27-10/1)     | 9/30 | continue clustering |                                  | |
 | Week 6 (10/4 - 10/8)   | 10/5 | continue clustering                                        |                                  | |
 | Week 6 (10/4 - 10/8)   | 10/7 | unsupervised learning, semi-supervised learning survey (10/7)                                         |                                  | |
 | Week 7 (10/11-10/15)   | 10/12 |    |  |No class on 10/12 (Fall Holiday)  |
