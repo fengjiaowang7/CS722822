@@ -24,7 +24,7 @@ Tentative course schedule:
 | Week 8 (10/18-10/22)   | 10/21 | start of unit-II<br>paper reviews and presentation           |                                  | |
 | Week 9 (10/25 - 10/29) | 10/26 | Continue unit-II                                             |                                  | |
 | Week 9 (10/25 - 10/29) | 10/28 | Continue unit-II                                             |                                  | |
-| Week 10 (11/1-11/5)    | 11/2 | Continue unit-II                                             |   | No class on 11/2 (Election Day) |
+| Week 10 (11/1-11/5)    | 11/2 |                                              |   | No class on 11/2 (Election Day) |
 | Week 10 (11/1-11/5)    | 11/4 | Continue unit-II                                             |   |  |
 | Week 11 (11/8-11/12)   | 11/9 | Continue unit-II                                             |                                  | |
 | Week 11 (11/8-11/12)   | 11/11 | Continue unit-II                                             |                                  | |
