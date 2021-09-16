@@ -10,7 +10,7 @@ Tentative course schedule:
 | Week 1 (8/30-9/3)      | 9/2 | Review of basic mathematics (matrix computation, norms, probability, mean, variance, optimization, etc.) |                                  | |
 | Week 2 (9/6-9/10)      | 9/7 | Supervised Learning - regression (linear/polynomial/non-linear regression), least square |                                 | |
 | Week 2 (9/6-9/10)      | 9/9 | underfitting, overfitting, regularization |  Homework 1 is published in Blackboard on 9/9, due date is 9/16 (by end of the day)                                | |
-| Week 3 (9/13-9/17)     | 9/14 |logistic regression, model evaluation (confusion matrix, Accuracy, precision, recall, F-measure, cost-sensitive measure)                                      |  Homework 1 due on 9/16 <br />  selecting paper for presentation by 9/19                                | |
+| Week 3 (9/13-9/17)     | 9/14 |logistic regression, model evaluation (confusion matrix, Accuracy, precision, recall, F-measure, cost-sensitive measure)                                      |                                  | |
 | Week 3 (9/13-9/17)     | 9/16 | model evaluation (ROC curve, AUC), Deep Learning Introduction                                      |  Homework 1 due on 9/16 <br />  selecting paper for presentation by 9/19                                | |
 | Week 4 (9/20-9/24)     | 9/21 | Deep Learning Introduction        |                                | |
 | Week 4 (9/20-9/24)     | 9/23 | Deep Learning Introduction<br>In-class quiz (45 minutes)        | In-class quiz on 9/23                                 | |
