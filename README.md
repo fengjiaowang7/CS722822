@@ -4,10 +4,12 @@ This repository serves as course website for CS722/822 Machine Learning.
 The course sysllabus is [here](https://github.com/fengjiaowang7/CS722822/blob/main/CS722_822_syllabus_new.pdf)
 
 Tentative course schedule:
-| Week                   | Topics                                                       | Activities | Note                             |
-| ---------------------- | ------------------------------------------------------------ | -------------------------------- | -------------------------------- |
-| Week 1 (8/30-9/3)      | Course overview<br>Review of basic mathematics (matrix computation, norms, probability, mean, variance, optimization, etc.) |                                  | |
-| Week 2 (9/6-9/10)      | Supervised Learning - regression (linear/polynomial/non-linear regression), least square, underfitting, overfitting, regularization |  Homework 1 is published in Blackboard on 9/9, due date is 9/16 (by end of the day)                                | |
+| Week                   | Date |Topics                                                       | Activities | Note                             |
+| ---------------------- |  ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------- | -------------------------------- |
+| Week 1 (8/30-9/3)      | 8/31 | Course overview<br>Review of basic mathematics (matrix computation, norms, probability, mean, variance, optimization, etc.) |                                  | |
+| Week 1 (8/30-9/3)      | 9/2 | Course overview<br>Review of basic mathematics (matrix computation, norms, probability, mean, variance, optimization, etc.) |                                  | |
+| Week 2 (9/6-9/10)      | 9/7 | Supervised Learning - regression (linear/polynomial/non-linear regression), least square, underfitting, overfitting, regularization |  Homework 1 is published in Blackboard on 9/9, due date is 9/16 (by end of the day)                                | |
+| Week 2 (9/6-9/10)      | 9/9 | Supervised Learning - regression (linear/polynomial/non-linear regression), least square, underfitting, overfitting, regularization |  Homework 1 is published in Blackboard on 9/9, due date is 9/16 (by end of the day)                                | |
 | Week 3 (9/13-9/17)     | logistic regression, model evaluation (confusion matrix, Accuracy, precision, recall, F-measure, cost-sensitive measure, ROC curve, AUC)                                      |  Homework 1 due on 9/16 <br />  selecting paper for presentation by 9/19                                | |
 | Week 4 (9/20-9/24)     | Deep Learning Introduction<br>In-class quiz (45 minutes)        | In-class quiz on 9/23                                 | |
 | Week 5 (9/27-10/1)     | Unsupervised Learning - clustering: K-means, hierarchical clustering, DBSCAN, spectral clustering, Gaussian mixture model, evaluation |                                  | |
