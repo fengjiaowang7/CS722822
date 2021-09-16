@@ -13,7 +13,7 @@ Tentative course schedule:
 | Week 3 (9/13-9/17)     | 9/14 |logistic regression, model evaluation (confusion matrix, Accuracy, precision, recall, F-measure, cost-sensitive measure)                                      |                                  | |
 | Week 3 (9/13-9/17)     | 9/16 | model evaluation (ROC curve, AUC), Deep Learning Introduction                                      |  Homework 1 due on 9/16 <br />  selecting paper for presentation by 9/19                                | |
 | Week 4 (9/20-9/24)     | 9/21 | Deep Learning Introduction        |  Homework 2 publish on 9/20, due date is 9/28 (by end of the day)                              | |
-| Week 4 (9/20-9/24)     | 9/23 | Deep Learning Introduction<br>In-class quiz (45 minutes)        | In-class quiz on 9/23                                 | |
+| Week 4 (9/20-9/24)     | 9/23 | Deep Learning Introduction (30 minutes) <br>In-class quiz (45 minutes)        | In-class quiz on 9/23                                 | |
 | Week 5 (9/27-10/1)     | 9/28 | Unsupervised Learning - clustering: K-means, hierarchical clustering, DBSCAN, spectral clustering, Gaussian mixture model, evaluation |  Homework 2 due on 9/28                                | |
 | Week 5 (9/27-10/1)     | 9/30 | continue clustering |                                  | |
 | Week 6 (10/4 - 10/8)   | 10/5 | unsupervised learning, semi-supervised learning survey - part1                                         |                                  | |
