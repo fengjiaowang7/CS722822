@@ -19,13 +19,21 @@ Tentative course schedule:
 | Week 6 (10/4 - 10/8)   | 10/5 | continue clustering<br>unsupervised learning, semi-supervised learning survey (10/7)                                         |                                  | |
 | Week 6 (10/4 - 10/8)   | 10/7 | continue clustering<br>unsupervised learning, semi-supervised learning survey (10/7)                                         |                                  | |
 | Week 7 (10/11-10/15)   | 10/12 |    |  |No class on 10/12 (Fall Holiday)  |
-| Week 7 (10/11-10/15)   | 10/14 | demo paper presentation by Dr. Wang<br>In-class quiz (45 minutes)            | In-class quiz on 10/14 |No class on 10/12 (Fall Holiday)  |
-| Week 8 (10/18-10/22)   | start of unit-II<br>paper reviews and presentation           |                                  | |
-| Week 9 (10/25 - 10/29) | Continue unit-II                                             |                                  | |
-| Week 10 (11/1-11/5)    | Continue unit-II                                             |   | No class on 11/2 (Election Day) |
-| Week 11 (11/8-11/12)   | Continue unit-II                                             |                                  | |
-| Week 12 (11/15-11/19)  | Continue unit-II                                             |                                  | |
-| Week 13 (11/22-11/26)  | Continue unit-II                                             |  | No class on 11/25 (Thanksgiving) |
-| Week 14 (11/29-12/3)   | Continue unit-II                                             |                                  | |
-| Week 15 (12/6-12/10)   | course project presentation                                  |               | Class ends on 12/10 |
+| Week 7 (10/11-10/15)   | 10/14 | demo paper presentation by Dr. Wang<br>In-class quiz (45 minutes)            | In-class quiz on 10/14 | |
+| Week 8 (10/18-10/22)   | 10/19 | start of unit-II<br>paper reviews and presentation           |                                  | |
+| Week 8 (10/18-10/22)   | 10/21 | start of unit-II<br>paper reviews and presentation           |                                  | |
+| Week 9 (10/25 - 10/29) | 10/26 | Continue unit-II                                             |                                  | |
+| Week 9 (10/25 - 10/29) | 10/28 | Continue unit-II                                             |                                  | |
+| Week 10 (11/1-11/5)    | 11/2 | Continue unit-II                                             |   | No class on 11/2 (Election Day) |
+| Week 10 (11/1-11/5)    | 11/4 | Continue unit-II                                             |   |  |
+| Week 11 (11/8-11/12)   | 11/9 | Continue unit-II                                             |                                  | |
+| Week 11 (11/8-11/12)   | 11/11 | Continue unit-II                                             |                                  | |
+| Week 12 (11/15-11/19)  | 11/16 | Continue unit-II                                             |                                  | |
+| Week 12 (11/15-11/19)  | 11/18 | Continue unit-II                                             |                                  | |
+| Week 13 (11/22-11/26)  | 11/23 | Continue unit-II                                             |  |  |
+| Week 13 (11/22-11/26)  | 11/25 |                      |  | No class on 11/25 (Thanksgiving) |
+| Week 14 (11/29-12/3)   | 11/30 | Continue unit-II                                             |                                  | |
+| Week 14 (11/29-12/3)   | 12/2 | Continue unit-II                                             |                                  | |
+| Week 15 (12/6-12/10)   | 12/7 | course project presentation                                  |               |  |
+| Week 15 (12/6-12/10)   | 12/9 | course project presentation                                  |               | Class ends on 12/10 |
 | Final Week             | A final comprehensive quiz                                   |                                  | |
