@@ -19,7 +19,7 @@ Tentative course schedule:
 | Week 6 (10/4 - 10/8)   | 10/5 | unsupervised learning, semi-supervised learning survey - part1                                         |                                | |
 | Week 6 (10/4 - 10/8)   | 10/7 | unsupervised learning, semi-supervised learning survey - part2                                         |   Homework 3 due 10/10                                | |
 | ~~Week 7 (10/11-10/15)~~   | ~~10/12~~ | No class on 10/12 (Fall Holiday)   | Homework 4 (programming assignment, K-means) publish on 10/11, due on 10/21 (by the end of the day) |  |
-| Week 7 (10/11-10/15)   | 10/14 | In-class quiz (60 minutes)            | In-class quiz on 10/14  |  |
+| Week 7 (10/11-10/15)   | 10/14 | In-class quiz           | In-class quiz on 10/14  |  |
 | Week 8 (10/18-10/22)   | 10/19 | start of unit-II<br>paper reviews and presentation           |  Homework 4 due on 10/21                                | |
 | Week 8 (10/18-10/22)   | 10/21 | Continue unit-II           |                                  | |
 | Week 9 (10/25 - 10/29) | 10/26 | Continue unit-II                                             |                                  | |
