@@ -45,3 +45,11 @@ Swersky, Mohammad Norouzi, and Geoffrey Hinton. ArXiv 2006.10029 2020."<br>20. L
 | Week 15 (12/6-12/10)   | 12/9 | course project presentation                                  |               | Course project (report, code, supplementary materials) due on 12/10 |
 
 
+|             |          Grouping           ||
+First Header  | Second Header | Third Header |
+ ------------ | :-----------: | -----------: |
+Content       |          *Long Cell*        ||
+Content       |   **Cell**    |         Cell |
+
+New section   |     More      |         Data |
+And more      | With an escaped '\|'         ||  
