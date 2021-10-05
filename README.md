@@ -16,7 +16,7 @@ Tentative course schedule:
 | Week 4 (9/20-9/24)     | 9/23 | In-class quiz        | In-class quiz on 9/23 <br> Homework 2 due on 9/26                                 | |
 | Week 5 (9/27-10/1)     | 9/28 | Unsupervised Learning - clustering: K-means, hierarchical clustering, DBSCAN, spectral clustering, Gaussian mixture model, evaluation |                                | |
 | Week 5 (9/27-10/1)     | 9/30 | continue clustering |  Homework 3 (programming assignment, logistic regression) publish on 9/30, due on 10/9 (by end of the day)                                 |Course project proposal due on 10/3 |
-| Week 6 (10/4 - 10/8)   | 10/5 | semi-supervised learning survey<br>hello                                        |                                | |
+| Week 6 (10/4 - 10/8)   | 10/5 | semi-supervised learning survey<br> required reading: Introduction to Semi-Supervised Learning. Olivier Chapelle, Bernhard Schölkopf, and Alexander Zien. In Semi-Supervised Learning, MIT Press, 2006. [PDF](http://mitp-content-server.mit.edu:18180/books/content/sectbyfn?collid=books_pres_0&id=6173&fn=9780262033589_sch_0001.pdf)                                        |                                | |
 | Week 6 (10/4 - 10/8)   | 10/7 | unsupervised learning, semi-supervised learning survey - part2                                         |   Homework 3 due 10/10                                | |
 | ~~Week 7 (10/11-10/15)~~   | ~~10/12~~ | No class on 10/12 (Fall Holiday)   | Homework 4 (programming assignment, K-means) publish on 10/11, due on 10/21 (by the end of the day) |  |
 | Week 7 (10/11-10/15)   | 10/14 | In-class quiz           | In-class quiz on 10/14  |  |
