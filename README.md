@@ -6,7 +6,7 @@ The course sysllabus is [here](https://github.com/fengjiaowang7/CS722822/blob/ma
 Required reading on how to read research paper:
 1. How to Read a CS Research Paper? Philip W. L. Wong. [PDF](http://www2.cs.uregina.ca/~pwlfong/CS499/reading-paper.pdf)
 2. How to Read a Technical Paper. Jason Eisner. [Online](https://www.cs.jhu.edu/~jason/advice/how-to-read-a-paper.html)
-3. How to Read a Paper. S. Keshav. [PDF](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)<br>
+3. How to Read a Paper. S. Keshav. [PDF](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)   
 Note: **please follow idea mentioned in reference 1 to write your own paper review summary**.
 
 Tentative course schedule:
