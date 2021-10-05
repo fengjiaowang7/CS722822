@@ -27,8 +27,8 @@ Tentative course schedule:
 | ~~Week 7 (10/11-10/15)~~   | ~~10/12~~ | No class on 10/12 (Fall Holiday)   | Homework 4 (programming assignment, K-means) publish on 10/11, due on 10/21 (by the end of the day) |  |
 | Week 7 (10/11-10/15)   | 10/14 | In-class quiz           | In-class quiz on 10/14  |  |
 | Week 8 (10/18-10/22)   | 10/19 | Paper presentation<br>5. Temporal Ensembling for Semi-Supervised Learning. Samuli Laine and Timo Aila. International Conference on Learning Representations (ICLR) 2017. <br> 23. Unsupervised Data Augmentation for Consistency Training           |  Homework 4 due on 10/21                                | |
-| Week 8 (10/18-10/22)   | 10/21 | Paper presentation<br>"2.  Big Self-Supervised Models are Strong Semi-Supervised Learners. Ting Chen, Simon Kornblith, Kevin Swersky, Mohammad Norouzi, and Geoffrey Hinton. ArXiv 2006.10029 2020." <br>20. Large-Scale Weakly-Supervised Pre-Training for Video Action Recognition.           |                                  | |
-| Week 9 (10/25 - 10/29) | 10/26 | Continue unit-II                                             |                                  | |
+| Week 8 (10/18-10/22)   | 10/21 | Paper presentation<br>2.  Big Self-Supervised Models are Strong Semi-Supervised Learners. Ting Chen, Simon Kornblith, Kevin Swersky, Mohammad Norouzi, and Geoffrey Hinton. ArXiv 2006.10029 2020. <br>20. Large-Scale Weakly-Supervised Pre-Training for Video Action Recognition.           |                                  | |
+| Week 9 (10/25 - 10/29) | 10/26 |   Paper presentation<br>10. Fine-Tune BERT for text classification <br>3. Self-Supervised Semi-Supervised Learning |                                  | |
 | Week 9 (10/25 - 10/29) | 10/28 | Continue unit-II                                             |                                  | |
 | ~~Week 10 (11/1-11/5)~~    | ~~11/2~~ | No class on 11/2 (Election Day)                                             |   |  |
 | Week 10 (11/1-11/5)    | 11/4 | Continue unit-II                                             |   | Course project milestone report |
