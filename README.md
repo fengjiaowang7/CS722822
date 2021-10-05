@@ -42,3 +42,9 @@ Tentative course schedule:
 | Week 14 (11/29-12/3)   | 12/2 | Continue unit-II                                             |                                  | |
 | Week 15 (12/6-12/10)   | 12/7 | course project presentation                                  |               |  |
 | Week 15 (12/6-12/10)   | 12/9 | course project presentation                                  |               | Course project (report, code, supplementary materials) due on 12/10 |
+
+| Week                   | Date |Topics                                                       | Homework/Quiz | Course Project                            |
+| ---------------------- |  ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------- | -------------------------------- |
+| Week 1 (8/30-9/3)      | 8/31 | Course overview |                                  | |
+| Week 1 (8/30-9/3)      | 8/31 | Course overview |                                   |
+| Week 1 (8/30-9/3)      | 8/31 | Course overview |                                   |
