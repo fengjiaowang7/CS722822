@@ -9,7 +9,6 @@ Required reading on how to read research paper:
 3. How to Read a Paper. S. Keshav. [PDF](http://blizzard.cs.uwaterloo.ca/keshav/home/Papers/data/07/paper-reading.pdf)
 Note: **please follow idea mentioned in reference 1 to write your own paper review summary**.
 
-
 Tentative course schedule:
 | Week                   | Date |Topics                                                       | Homework/Quiz | Course Project                            |
 | ---------------------- |  ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------- | -------------------------------- |
