@@ -10,7 +10,9 @@ Required reading on how to read research paper:
 Note: **please follow idea mentioned in reference 1 to write your own paper review summary**.
 
 List of references for part II:
-1. Representation Learning: A Review and New Perspectives [arxiv](https://arxiv.org/pdf/1206.5538.pdf)
+1. Representation Learning: A Review and New Perspectives. [PDF](https://arxiv.org/pdf/1206.5538.pdf)
+2. Self-Supervised Representation Learning. [online](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)
+3. Leave those nets alone: advances in self-supervised learning. CVPR 2021 tutorial. including topics: contrasive learning, teacher student approaches. [video](https://gidariss.github.io/self-supervised-learning-cvpr2021/)
 
 Tentative course schedule:
 | Week                   | Date |Topics                                                       | Homework/Quiz | Course Project                            |
