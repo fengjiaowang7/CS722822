@@ -16,6 +16,7 @@ List of references for part II:
 
 image processing references:
 1. Basic Image Handling and Processing [online](https://www.oreilly.com/library/view/programming-computer-vision/9781449341916/ch01.html)
+2. Stanford CS231n: Convolutional Neural Networks for Visual Recognition [class notes](https://cs231n.github.io)
 
 Tentative course schedule:
 | Week                   | Date |Topics                                                       | Homework/Quiz | Course Project                            |
