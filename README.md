@@ -14,6 +14,9 @@ List of references for part II:
 2. Self-Supervised Representation Learning. [online](https://lilianweng.github.io/lil-log/2019/11/10/self-supervised-learning.html)
 3. Leave those nets alone: advances in self-supervised learning. CVPR 2021 tutorial. including topics: contrasive learning, teacher student approaches. [video](https://gidariss.github.io/self-supervised-learning-cvpr2021/)
 
+image processing references:
+1. [Basic Image Handling and Processing](https://www.oreilly.com/library/view/programming-computer-vision/9781449341916/ch01.html)
+
 Tentative course schedule:
 | Week                   | Date |Topics                                                       | Homework/Quiz | Course Project                            |
 | ---------------------- |  ------------------------------------------------------------ | ------------------------------------------------------------ | -------------------------------- | -------------------------------- |
