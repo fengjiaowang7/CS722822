@@ -15,7 +15,7 @@ List of references for part II:
 3. Leave those nets alone: advances in self-supervised learning. CVPR 2021 tutorial. including topics: contrasive learning, teacher student approaches. [video](https://gidariss.github.io/self-supervised-learning-cvpr2021/)
 
 image processing references:
-1. [Basic Image Handling and Processing](https://www.oreilly.com/library/view/programming-computer-vision/9781449341916/ch01.html)
+1. Basic Image Handling and Processing[online](https://www.oreilly.com/library/view/programming-computer-vision/9781449341916/ch01.html)
 
 Tentative course schedule:
 | Week                   | Date |Topics                                                       | Homework/Quiz | Course Project                            |
